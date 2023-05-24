@@ -47,7 +47,7 @@
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-command/blob/main/C%2B%2B/main.cpp) - Command Pattern (C++) 
 
 ---
 
